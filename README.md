@@ -34,3 +34,11 @@ The evaluation scripts for both our proposed framework and the baseline methods 
 
 ## Citation
 If this implementation is helpful for your research, please consider citing our work:
+```
+@article{yang2023unsupervised,
+  title={Unsupervised Adaptive Implicit Neural Representation Learning for Scan-Specific MRI Reconstruction},
+  author={Yang, Junwei and Li{\`o}, Pietro},
+  journal={arXiv preprint arXiv:2312.00677},
+  year={2023}
+}
+```
